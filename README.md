@@ -1,1 +1,3 @@
 # LuxeVista
+
+Resort management system
